@@ -113,7 +113,7 @@ script to generate an off chain signature.
 <h2> Development Tools </h2>
 <ul>
     <li> Truffle </li>
-    <li> Controller ID </li>
+    <li> Solidity </li>
     <li> Javascript </li>
 </ul>
 <hr>
