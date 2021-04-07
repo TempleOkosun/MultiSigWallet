@@ -141,7 +141,7 @@ Steps:
     <li> truffle migrate –reset: to deploy to local blockchain </li>
     <li> truffle test: to run tests </li>
     <li> ruffle run coverage: to see test coverage report </li>
-    <li>      n order to test the verifySignature function, you will have to use remix and connect to meta-mask 
+    <li> In order to test the verifySignature function, you will have to use remix and connect to meta-mask 
         and be connected to the local running blockchain to have access to private keys.
        Get private key of an owner address and use the signOffchainTransaction script in the scripts folder, 
 provide the required inputs and generate signature components. Pass the generated outputs to verifySignature 
