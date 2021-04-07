@@ -134,7 +134,7 @@ script to generate an off chain signature.
 
 <h2> How to run </h2>
 
-Running the project follows similarb steps with every other truffle projects.
+Running the project follows similar steps with every other truffle projects.
 Steps:
 <ol>
     <li> npm install: to install dependencies </li>
